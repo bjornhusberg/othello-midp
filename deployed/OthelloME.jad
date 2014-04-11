@@ -1,0 +1,9 @@
+MIDlet-Jar-Size: 62972
+MIDlet-1: Othello,,com.othello.OthelloMIDlet
+MIDlet-Jar-URL: Othello.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 1.1.30
+MIDlet-Name: Othello
+MIDlet-Description: (c) Bjorn Husberg 2005
+MIDlet-Vendor: Bjorn Husberg
+MicroEdition-Profile: MIDP-1.0
